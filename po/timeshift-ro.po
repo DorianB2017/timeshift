@@ -42,7 +42,7 @@ msgstr "'%s' va fi pe '%s'"
 #: Console/AppConsole.vala:912
 #, c-format
 msgid "'%s' will be on root device"
-msgstr "'%s' va fi pe dispozitivul root"
+msgstr "'%s' va fi pe dispozitivul rădăcină"
 
 #: Gtk/BootOptionsBox.vala:118
 msgid "(Re)install GRUB2 on:"
@@ -130,8 +130,7 @@ msgstr "Se cere acces admin"
 
 #: Gtk/AppGtk.vala:126
 msgid "Admin access is required to backup and restore system files."
-msgstr ""
-"Se cere acces admin pentru copierea și restaurarea fișierelor de sistem"
+msgstr "Se cere acces administrator pentru copierea și restaurarea fișierelor de sistem"
 
 #: Gtk/RsyncLogBox.vala:363
 msgid "All Files"
@@ -236,6 +235,8 @@ msgid ""
 "BTRFS snapshots are saved on system partition. Other partitions are not "
 "supported."
 msgstr ""
+"Instantaneele BTRFS sunt salvate pe partiția de sistem. Alte partiții nu "
+"sunt suportate."
 
 #: Gtk/FinishBox.vala:92
 msgid ""
@@ -259,7 +260,7 @@ msgstr "Backend"
 
 #: Console/AppConsole.vala:356 Gtk/BackupWindow.vala:92
 msgid "Backup"
-msgstr "Backup"
+msgstr "Copie de rezervă"
 
 #: Core/Main.vala:2017
 msgid "Backup Device"
@@ -331,7 +332,7 @@ msgstr "Anulare"
 
 #: Gtk/RestoreWindow.vala:221
 msgid "Cancel restore?"
-msgstr "Anulează restaurarea"
+msgstr "Anulare restaurare?"
 
 #: Gtk/RestoreWindow.vala:223
 msgid ""
@@ -360,7 +361,7 @@ msgstr "Articole modificate"
 
 #: Gtk/RestoreWindow.vala:104
 msgid "Checking Restore Actions (Dry Run)"
-msgstr ""
+msgstr "Verificarea acțiunilor de restaurare (rularea uscată)"
 
 #: Core/Main.vala:2732
 msgid "Checking file systems for errors..."
@@ -422,11 +423,11 @@ msgstr "Comentarii"
 
 #: Core/Main.vala:2775 Gtk/RestoreBox.vala:74 Gtk/RestoreBox.vala:187
 msgid "Comparing Files (Dry Run)..."
-msgstr ""
+msgstr "Compararea fișierelor (rularea uscată) ..."
 
 #: Core/Main.vala:2541
 msgid "Comparing files with rsync..."
-msgstr ""
+msgstr "Compararea fișierelor cu rsync ..."
 
 #: Gtk/RestoreFinishBox.vala:50 Gtk/RestoreFinishBox.vala:75
 #: Gtk/BackupFinishBox.vala:50 Gtk/DeleteFinishBox.vala:50
